@@ -1,0 +1,18 @@
+/* 
+    Document   : common
+    Created on : Aug 9, 2013, 11:14:49 PM
+    Author     : pavennt
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+/** pavennt add news  */
+.top_b h3{
+    padding-top: 10px;
+}
+.login_page .sms_messages_alert {
+    width: 25%;
+    margin: 0 auto;
+    position: relative;
+    top: 90px;      
+}
