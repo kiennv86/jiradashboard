@@ -24,7 +24,7 @@
                     <div class="nav-collapse">
                         <ul class="nav">
                             <li class="dropdown">
-                                <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon-list-alt icon-white"></i> Temporary Menu <b class="caret"></b></a>
+                                <a data-toggle="dropdown" class="dropdown-toggle" href="#"><i class="icon-list-alt icon-white"></i> Administrator Menu <b class="caret"></b></a>
                                 <ul class="dropdown-menu">
                                     <li><a href="<?php echo base_url('pages');?>">Pages Manager</a></li>
                                     <li><a href="<?php echo base_url('widgets');?>">Widget Manager</a></li>
